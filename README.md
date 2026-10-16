@@ -41,14 +41,6 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,azure,docker,linux,git&theme=dark" />
 
-### 🚀 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Cobrai**](https://github.com/SEU_USUARIO/cobrai) | Production app running on my own VPS | Python · ... |
-| [**Wagering Processor**](https://github.com/SEU_USUARIO/REPO) | Distributed back-end challenge | ... |
-| [**RAG Assistant**](https://github.com/SEU_USUARIO/REPO) | GenAI app with retrieval-augmented generation | Python · FastAPI · LLM |
-
 ### 📊 GitHub stats
 
 <div align="center">
