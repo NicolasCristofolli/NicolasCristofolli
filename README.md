@@ -41,11 +41,6 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,azure,docker,linux,git&theme=dark" />
 
-### 📊 GitHub stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=1A0B2E&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=1A0B2E&title_color=C084FC&text_color=E9D5FF" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:2E1065&height=120&section=footer" width="100%" />
