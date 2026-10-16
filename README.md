@@ -6,13 +6,18 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolascristofolli)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickcristofolli@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_SITE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/nicolascristofolli)
 
 </div>
 
 ---
+<div align="center">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:2E1065&height=120&section=footer" width="100%" />
 
 ### 👋 About me
 
@@ -52,11 +57,3 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=1A0B2E&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=1A0B2E&title_color=C084FC&text_color=E9D5FF" />
 </div>
-
-### 👻 Pac-Man eating my contributions
-
-<div align="center">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:2E1065&height=120&section=footer" width="100%" />
